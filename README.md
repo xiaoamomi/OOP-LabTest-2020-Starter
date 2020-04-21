@@ -6,7 +6,7 @@ A Gantt chart is a horizontal bar chart that visually represents a project plan 
 
 Here is a video of what your finished project should look like:
 
-[![YouTube](http://img.youtube.com/vi/uZHh_qOthNo/0.jpg)](https://youtu.be/uZHh_qOthNo)
+[![YouTube](http://img.youtube.com/vi/Byub1wE6lDU/0.jpg)](https://youtu.be/Byub1wE6lDU)
 
 There is one file in the data folder of the repository. The file tasks.csv looks like this:
 
@@ -14,7 +14,10 @@ There is one file in the data folder of the repository. The file tasks.csv looks
 Task,Start,End
 Research,1,5
 Design,6,10
-Implementation,11,20
+Phase 1,11,13
+Phase 2,12,16
+Phase 3,16,19
+Integration,21,23
 Testing,21,25
 Evaluation,24,28
 Release,28,30
